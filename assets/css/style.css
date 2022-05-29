@@ -98,3 +98,17 @@ p {
     padding: 20px;
     width: fit-content;
 }
+
+ul {
+    font-size: 24;
+    list-style-type: "🞴";
+}
+
+li::before {
+    color: #555;
+}
+
+li {
+    padding-left: 20px;
+    margin-top: 20px
+}
