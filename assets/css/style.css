@@ -76,6 +76,7 @@ body {
 .fig > img {
     border: 6px solid grey;
     border-radius: 4px;
+    height: 300px;
 }
 
 .fig > figcaption {
@@ -87,4 +88,5 @@ body {
 .main-text {
     font-size: 24px;
     text-align: justify;
+    margin-top: 0px;
 }
