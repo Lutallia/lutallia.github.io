@@ -17,7 +17,7 @@ body {
 
 a {
     text-decoration: none;
-    color: #333;
+    color: #444;
     transition: color 0.7s;
 }
 
@@ -102,6 +102,8 @@ p {
 ul {
     font-size: 24;
     list-style-type: "🞴";
+    margin-top: 80px;
+    margin-bottom: 80px
 }
 
 li::before {
