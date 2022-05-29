@@ -90,5 +90,6 @@ p {
 
 .color-label {
     color: white;
-    padding: 4px;
+    padding: 20px;
+    width: fit-content;
 }
