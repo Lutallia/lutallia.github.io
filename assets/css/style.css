@@ -70,6 +70,9 @@ body {
 
 .fig {
     margin: 0px 0px 25px 50px;
+}
+
+.fig-box {
     height: 100%;
 }
 
