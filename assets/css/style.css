@@ -48,3 +48,43 @@ body {
     color: white;
     text-shadow: -6px 0px black, 6px 0px black, 0px 6px black, 0px -6px black;
 }
+
+.block {
+    min-height: 600px;
+    padding: 20px 60px;
+    position: relative;
+}
+
+.block-title {
+    font-family: 'Nanum Gothic Coding';
+    font-size: 42;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.fig {
+    margin: 0px 0px 0px 50px;
+    height: 100%;
+}
+
+.fig > img {
+    border: 6px solid grey;
+    border-radius: 4px;
+}
+
+.fig > figcaption {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 21px;
+}
+
+.main-text {
+    font-size: 24px;
+    text-align: justify;
+}
