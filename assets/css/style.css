@@ -29,7 +29,8 @@ body {
     background: url(/assets/mp_bg.png) no-repeat;
     background-size: 100% auto;
     width: 100%;
-    height: 100%;
+    height: fit-content;
+    position: relative;
 }
 
 #title-center-box {
