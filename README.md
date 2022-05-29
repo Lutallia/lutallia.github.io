@@ -1,2 +1,0 @@
-# lutallia.github.io
-pog
