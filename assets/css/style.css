@@ -62,7 +62,8 @@ a:hover {
 
 .block-title {
     font-family: 'Nanum Gothic Coding';
-    font-size: 42;
+    font-size: 56;
+    margin-bottom: 80px;
 }
 
 .fig-box {
