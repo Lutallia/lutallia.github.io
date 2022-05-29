@@ -81,8 +81,13 @@ body {
     font-size: 21px;
 }
 
-.main-text {
+p {
     font-size: 24px;
     text-align: justify;
     margin-top: 0px;
+}
+
+.color-label {
+    font-color: white;
+    padding: 4px;
 }
