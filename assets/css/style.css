@@ -62,18 +62,17 @@ body {
 
 .left {
     float: left;
+    margin: 0x 50px 25px 0px;
 }
 
 .right {
     float: right;
-}
-
-.fig {
     margin: 0px 0px 25px 50px;
 }
 
 .fig-box {
     height: 100%;
+    width: 500px;
 }
 
 .fig > img {
