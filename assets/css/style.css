@@ -55,7 +55,7 @@ a:hover {
 }
 
 .block {
-    min-height: 600px;
+    height: fit-content;
     padding: 20px 60px;
     position: relative;
 }
