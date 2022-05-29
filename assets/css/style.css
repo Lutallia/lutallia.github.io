@@ -45,7 +45,7 @@ body {
 
 #title {
     font-family: "Nanum Gothic Coding";
-    font-size: 72;
+    font-size: 100;
     color: white;
     text-shadow: -6px 0px black, 6px 0px black, 0px 6px black, 0px -6px black;
 }
@@ -73,7 +73,7 @@ body {
 .fig > img {
     border: 6px solid #222;
     border-radius: 4px;
-    height: 300px;
+    height: 400px;
 }
 
 .fig > figcaption {
